@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gravitation Portfolios\n"
+"POT-Creation-Date: 2015-12-15 22:28+0100\n"
+"PO-Revision-Date: 2016-04-25 00:46+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-WPHeader: gravitation-portfolios.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: content-archive-gravitation-portfolio.php:71
+#: content-single-gravitation-portfolio.php:86
+msgid "Details: "
+msgstr "Detalles: "
+
+#: content-archive-gravitation-portfolio.php:75
+#: content-single-gravitation-portfolio.php:90
+msgid "Client: "
+msgstr "Cliente: "
+
+#: content-archive-gravitation-portfolio.php:77
+#: content-single-gravitation-portfolio.php:92
+msgid "Date: "
+msgstr "Fecha: "
+
+#: content-archive-gravitation-portfolio.php:79
+#: content-single-gravitation-portfolio.php:94
+msgid "Categories: "
+msgstr "Categorías: "
+
+#: content-archive-gravitation-portfolio.php:81
+#: content-single-gravitation-portfolio.php:96
+msgid "Link: "
+msgstr "Enlace: "
+
+#: gravitation-portfolios-page.php:11 gravitation-portfolios.php:385
+msgid "All"
+msgstr "Todos"
+
+#: gravitation-portfolios-page.php:73 gravitation-portfolios.php:436
+msgid "View More"
+msgstr "Ver más"
+
+#: gravitation-portfolios.php:138
+msgid "Company"
+msgstr "Empresa"
+
+#: gravitation-portfolios.php:139 gravitation-portfolios.php:673
+msgid "Website"
+msgstr "Página Web"
+
+#: gravitation-portfolios.php:140
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: gravitation-portfolios.php:141
+msgid "Date"
+msgstr "Fecha"
+
+#: gravitation-portfolios.php:214
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: gravitation-portfolios.php:215
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: gravitation-portfolios.php:225
+msgid "Page"
+msgstr "Página"
+
+#: gravitation-portfolios.php:465
+msgid "Help"
+msgstr "Ayuda"
+
+#: gravitation-portfolios.php:473
+msgid "Sorry, your nonce did not verify."
+msgstr "Lo sentimos, tu post  no ha sido verificado."
+
+#: gravitation-portfolios.php:485
+msgid "Help GV. portfolios"
+msgstr "Ayuda GV. portfolios"
+
+#: gravitation-portfolios.php:496
+msgid "Include Bootstrap?"
+msgstr "¿Incluye Bootstrap?"
+
+#: gravitation-portfolios.php:498
+msgid "If your theme already includes bootstrap set this option to NO."
+msgstr "Si tu tema ya incluye Bootstrap marque esta opción NO."
+
+#: gravitation-portfolios.php:508
+msgid "No"
+msgstr ""
+
+#: gravitation-portfolios.php:510
+msgid "Yes"
+msgstr ""
+
+#: gravitation-portfolios.php:519
+msgid "Portfolios order"
+msgstr ""
+
+#: gravitation-portfolios.php:526
+msgid "Older first"
+msgstr ""
+
+#: gravitation-portfolios.php:528
+msgid "Latest first"
+msgstr ""
+
+#: gravitation-portfolios.php:537
+msgid "Number of portfolios to show"
+msgstr ""
+
+#: gravitation-portfolios.php:545
+msgid "Save Settings"
+msgstr ""
+
+#: gravitation-portfolios.php:549
+msgid ""
+"For Gravitation portfolios to work you have to create a portfolio Category "
+"then create a portfolio over Add New portfolio"
+msgstr ""
+
+#: gravitation-portfolios.php:551
+msgid "Type of shortcodes:"
+msgstr ""
+
+#: gravitation-portfolios.php:552
+msgid "Pages and Posts"
+msgstr ""
+
+#: gravitation-portfolios.php:554
+msgid "Show all portfolios: <strong>[gravitation_portfolios]</strong>"
+msgstr ""
+
+#: gravitation-portfolios.php:556
+msgid ""
+"Show \"x\" portfolios: <strong>[gravitation_portfolios count=\"x\"]</"
+"strong> ,where \"x\" is a number <strong>[gravitation_portfolios count="
+"\"3\"]</strong>"
+msgstr ""
+
+#: gravitation-portfolios.php:558
+msgid ""
+"Show all portfolios of one \"category\" : <strong>[gravitation_portfolios "
+"category=\"customers\"]</strong> ,where \"customers\" is a category created "
+"on portfolios category"
+msgstr ""
+
+#: gravitation-portfolios.php:559
+msgid ""
+"Combined show \"x\" portfolios of one \"category\" : "
+"<strong>[gravitation_portfolios count=\"x\" category=\"customers\"]</"
+"strong> ,where \"x\" is a number and \"customers\" is a category created on "
+"portfolio category"
+msgstr ""
+
+#: gravitation-portfolios.php:581
+msgctxt "Post Type General Name"
+msgid "GV. portfolios"
+msgstr ""
+
+#: gravitation-portfolios.php:582
+msgctxt "Post Type Singular Name"
+msgid "portfolios"
+msgstr ""
+
+#: gravitation-portfolios.php:583 gravitation-portfolios.php:584
+msgid "GV. portfolios"
+msgstr ""
+
+#: gravitation-portfolios.php:585
+msgid "Parent portfolio:"
+msgstr ""
+
+#: gravitation-portfolios.php:586
+msgid "All portfolios"
+msgstr ""
+
+#: gravitation-portfolios.php:587
+msgid "Add portfolio"
+msgstr ""
+
+#: gravitation-portfolios.php:588
+msgid "Add New"
+msgstr ""
+
+#: gravitation-portfolios.php:589
+msgid "New portfolio"
+msgstr ""
+
+#: gravitation-portfolios.php:590
+msgid "Edit portfolio"
+msgstr ""
+
+#: gravitation-portfolios.php:591
+msgid "Update portfolio"
+msgstr ""
+
+#: gravitation-portfolios.php:592
+msgid "View portfolio"
+msgstr ""
+
+#: gravitation-portfolios.php:593
+msgid "Search portfolio"
+msgstr ""
+
+#: gravitation-portfolios.php:594
+msgid "portfolios Not found"
+msgstr ""
+
+#: gravitation-portfolios.php:595
+msgid "portfolios Not found in Trash"
+msgstr ""
+
+#: gravitation-portfolios.php:599
+msgid "GV. Portfolios"
+msgstr ""
+
+#: gravitation-portfolios.php:600
+msgid "GV. Portfolios Creator simple responsive portfolios items"
+msgstr ""
+
+#: gravitation-portfolios.php:663
+msgid "Client"
+msgstr ""
+
+#: meta-box-class/my-meta-box-class.php:431
+msgid "Add"
+msgstr ""
+
+#: meta-box-class/my-meta-box-class.php:458
+msgid "Remove"
+msgstr ""
+
+#: meta-box-class/my-meta-box-class.php:788
+msgid "Select a color"
+msgstr ""
+
+#: meta-box-class/my-meta-box-class.php:876
+msgid "Select ..."
+msgstr ""
+
+#: meta-box-class/my-meta-box-class.php:1823
+#: meta-box-class/my-meta-box-class.php:1831
+msgid "Sorry, you cannot upload this file type for this field."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Gravitation Portfolios"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/UlisesFreitas/gravitation-portfolios"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Gravitation portfolios, is a plugin to display portfolios on your site, with "
+"a page template, Quicksand integrated fully responsive and sortable"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ulises Freitas"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://disenialia.com/"
+msgstr ""

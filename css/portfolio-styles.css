@@ -1,0 +1,58 @@
+/*===========================
+  portfolio
+============================ */
+
+.filter-list{
+	margin-top:20px;
+}
+
+/* =========================
+	Quicksand
+	===================== */
+/*- FILTER OPTIONS -*/
+
+
+ul#filterOptions li { 
+	height: 52px; 
+	margin-right: 2px; 
+	display: inline-block; 
+}
+	
+ul#filterOptions li a {
+	height: 50px;
+	padding: 0 20px;
+	background: #000000;
+	color: #fff;
+	font-weight: bold;
+	line-height: 50px;
+	text-decoration: none;
+	display: block;
+}
+ul#filterOptions li a:hover { background: #616161; }
+ul#filterOptions li.active a { background: #303030; }
+
+ul.ourHolder li.item {
+	
+	float: left;
+	text-align: center;
+	overflow: hidden;
+	padding: 10px;
+	
+}
+.headline {
+    display: block;
+    margin: 10px 0 25px 0;
+    border-bottom: 1px dotted #e4e9f0;
+}
+.headline h2, .headline h3, .headline h4 {
+    margin: 0 0 -2px 0;
+    padding-bottom: 5px;
+    display: inline-block;
+    border-bottom: 2px solid #8549ad;
+}
+.portfolio-details > li{
+	color: #000000;
+}
+.project-section {
+    margin-bottom: 30px;
+}
